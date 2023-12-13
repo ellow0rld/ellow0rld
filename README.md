@@ -69,9 +69,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://madhushreearavindan.madhu-aravindan.repl.co/" target="_blank">
-<img src=https://github.com/ellow0rld/ellow0rld/blob/main/Screenshot%202023-12-13%20102714.png?raw=true&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-</a>
 <a href="https://github.com/ellow0rld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -86,7 +83,11 @@
 </a>
 <a href="https://medium.com/@ma2889" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<br>
+<a href="https://madhushreearavindan.madhu-aravindan.repl.co/" target="_blank">
+<img style="margin-bottom: 5px;" src=https://github.com/ellow0rld/ellow0rld/blob/main/Screenshot%202023-12-13%20102714.png?&style=for-the-badge&logo=github&logoColor=white alt=github  height=50/>
+</a>
 </div>  
   
 
