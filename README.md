@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://github.com/ellow0rld/ellow0rld/blob/main/header.png?raw=true" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Madhu Shree, a sophomore pursuing a BTech in CSE.</div>  
-  
 
 - 🔭 I’m currently working on CodeBuddy (https://github.com/ellow0rld/CodeBuddy)  
   
@@ -108,17 +104,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ellow0rld&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ellow0rld&&style=flat-square" align="center" />
@@ -129,6 +115,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
