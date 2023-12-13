@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://github.com/ellow0rld/ellow0rld/blob/main/header.png?raw=true" align="center" style="width: 100%" />
 </div>  
-
-- 🔭 I’m currently working on CodeBuddy (https://github.com/ellow0rld/CodeBuddy)  
   
 
 - 🌱 I’m currently learning Java and Swift.  
