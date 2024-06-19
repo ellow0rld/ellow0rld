@@ -3,7 +3,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning Java and Swift.  
+- 🌱 I’m an AI/Ml enthusiast.  
   
 
 - ❓ Ask me about anything related to Data Science and Python.  
